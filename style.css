@@ -1,0 +1,14 @@
+.container {
+	margin: 0 auto;
+	padding: 2em;
+	border: 2px solid black;
+}
+
+.editButton {
+	float: right;
+	padding: 1em;
+}
+
+.editing {
+	border: 1px dashed grey;
+}
